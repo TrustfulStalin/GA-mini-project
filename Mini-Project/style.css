@@ -1,0 +1,31 @@
+#whole-world {
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-evenly;
+    background-color: wheat;
+    border: 25px solid black;
+    background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk2bHIwNW52cjQ0eWN5OTJzc3Q3YXhsNTRzNzEzNjZidmhlNW5mZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12wteMTXxjLaVO/giphy.gif");
+    font-weight: bold;
+}
+
+#newbeer{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aqua;
+    border: 5px solid black;
+
+}
+
+#newWorld {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-image: url("https://www.youtube.com/watch?v=jgE03D3AGx0&t=8s&ab_channel=StoryfulNews%26Weather")
+}
+#stone\ cold {
+    background-color: white;
+    text-align: center;
+}
+#bar{
+    background-color: black;
+}
